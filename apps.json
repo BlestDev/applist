@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Application A",
+        "description": "Une application innovante pour gérer vos tâches.",
+        "image": "https://via.placeholder.com/80"
+    },
+    {
+        "title": "Application B",
+        "description": "Découvrez la nouvelle application de messagerie instantanée.",
+        "image": "https://via.placeholder.com/80"
+    },
+    {
+        "title": "Application C",
+        "description": "Un jeu passionnant qui vous tiendra en haleine !",
+        "image": "https://via.placeholder.com/80"
+    }
+]
