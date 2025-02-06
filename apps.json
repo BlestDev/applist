@@ -2,16 +2,16 @@
     {
         "title": "Application A",
         "description": "Une application innovante pour gérer vos tâches.",
-        "image": "facebook.png"
+        "image": "assets/facebook.png"
     },
     {
         "title": "Application B",
         "description": "Découvrez la nouvelle application de messagerie instantanée.",
-        "image": "info.png"
+        "image": "assets/info.png"
     },
     {
         "title": "Application C",
         "description": "Un jeu passionnant qui vous tiendra en haleine !",
-        "image": "whatsapp.png"
+        "image": "assets/whatsapp.png"
     }
 ]
