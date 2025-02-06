@@ -1,17 +1,17 @@
 [
     {
         "title": "Antso avo maika",
-        "description": ">Cette application est un outil sophistiqué destiné à optimiser l'étude de la Bible, tiré et traduit de l'ouvrage Antso avo maika",
+        "description": "Cette application est un outil destiné à optimiser l'étude de la Bible, tiré et traduit de l'ouvrage Antso avo maika",
         "image": "assets/antso avo maika.png"
     },
     {
-        "title": "Application B",
-        "description": "Découvrez la nouvelle application de messagerie instantanée.",
-        "image": "assets/info.png"
+        "title": "Zarao ny finoanao",
+        "description": "Cette application est un outil destiné à optimiser l'étude de la Bible, tiré et traduit de l'ouvrage Zarao ny finoanao",
+        "image": "assets/foi.png"
     },
     {
-        "title": "Application C",
+        "title": "Screen projection",
         "description": "Un jeu passionnant qui vous tiendra en haleine !",
-        "image": "assets/whatsapp.png"
+        "image": "assets/projecteur.png"
     }
 ]
