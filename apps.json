@@ -1,17 +1,17 @@
 [
     {
         "title": "Antso avo maika",
-        "description": "Cette application est un outil destiné à optimiser l'étude de la Bible, tiré et traduit de l'ouvrage Antso avo maika",
+        "description": "Cette application Android est un outil essentiel pour approfondir l’étude de la Bible. Adaptée et traduite à partir d’un livre de référence, elle facilite l'exploration des Écritures de manière claire et enrichissante.",
         "image": "assets/antso avo maika.png"
     },
     {
         "title": "Zarao ny finoanao",
-        "description": "Cette application est un outil destiné à optimiser l'étude de la Bible, tiré et traduit de l'ouvrage Zarao ny finoanao",
+        "description": "Cette application Android est un outil puissant conçu pour optimiser l'étude de la Bible. Adaptée et traduite à partir d’un ouvrage de référence, elle propose une exploration approfondie des Écritures à travers une interface intuitive et fluide, rendant l’apprentissage plus accessible et enrichissant.",
         "image": "assets/foi.png"
     },
     {
         "title": "Screen projection",
-        "description": "Un jeu passionnant qui vous tiendra en haleine !",
+        "description": "Ce logiciel innovant offre une solution complète pour la projection de Bibles, de cantiques, de livres et de vidéos, garantissant une expérience immersive et fluide. Il permet également de lire automatiquement la musique associée au chant sélectionné, assurant une parfaite synchronisation. Grâce à son système de gestion avancé, il enregistre et mémorise les programmes présélectionnés, facilitant ainsi l'organisation et l'exécution des présentations",
         "image": "assets/projecteur.png"
     }
 ]
