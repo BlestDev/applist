@@ -11,7 +11,7 @@ body {
             max-width: 900px;
             margin: auto;
         }
-		.app-container img {
+        .app-container img {
           max-width:100px;
           margin:auto;
           display:flex;
@@ -42,9 +42,11 @@ body {
         .app h2 {
             margin: 0;
             color: #ff9800;
+            font-size:1em;
         }
         .app p {
             margin: 5px 0 0;
+            font-size:0.7em;
         }
         .loading {
             text-align: center;
