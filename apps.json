@@ -1,17 +1,17 @@
 [
     {
         "title": "Antso avo maika",
-        "description": "Rehefa hampiasa ity fitaovana ity dia zava-dehibe ny fandalovana ny fifohazana ombam-panavaozana.",
+        "description": "Fitaovana manampy amin'ny fitoriana ny filazantsara sy ny fianarana ny Baiboly.",
         "image": "assets/antso avo maika.png"
     },
     {
         "title": "Zarao ny finoanao",
-        "description": "Rehefa hampiasa ity fitaovana ity dia zava-dehibe ny fandalovana ny fifohazana ombam-panavaozana..",
+        "description": "Fitaovana entina hanamafisana ny finoana sy hozarana ihany koa amin'ny mpiara-belona izay mila famonjena",
         "image": "assets/foi.png"
     },
     {
         "title": "Screen projection",
-        "description": "Fitaovana iray manampy amin'ny fanehoana ny Baiboly sy fihirana eny amin'ny <écran>, ahitana Baiboly karazany maro, fihirana Tiona sy fihirana ho an'ny ankizy",
+        "description": "Fitaovana manampy amin'ny fanehoana ny Baiboly sy fihirana eny amin'ny <écran>, ahitana Baiboly karazany maro, fihirana Tiona sy fihirana ho an'ny ankizy",
         "image": "assets/projecteur.png"
     }
 ]
